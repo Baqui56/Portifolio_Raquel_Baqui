@@ -1,4 +1,4 @@
-> **Portfólio pessoal de Raquel Baqui - Desenvolvedora Front-End**
+**Portfólio pessoal de Raquel Baqui - Desenvolvedora Front-End**
 
 Bem-vindos ao meu portfólio digital! Este site apresenta minha jornada como desenvolvedora front-end, projetos realizados e habilidades técnicas.
 
