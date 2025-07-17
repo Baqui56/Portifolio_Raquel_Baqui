@@ -33,6 +33,8 @@ Aplicação web que exibe informações meteorológicas atualizadas em tempo rea
 - Dados em tempo real
 - Design moderno e clean
 
+- está disponível em: https://baqui56.github.io/previsao-do-tempo/
+
 ### 🏢 Site de Escritório de Contabilidade
 Projeto que simula um escritório de contabilidade online profissional.
 
@@ -40,6 +42,8 @@ Projeto que simula um escritório de contabilidade online profissional.
 - Layout responsivo
 - Design moderno e profissional
 - Simulação de serviços contábeis
+
+- - está disponível em: https://baqui56.github.io/Calculo-Certo-Contabil/
 
 ### 🐕 Petshop Online
 Site funcional que simula um petshop online voltado para o cuidado e bem-estar dos pets.
@@ -49,6 +53,8 @@ Site funcional que simula um petshop online voltado para o cuidado e bem-estar d
 - Design moderno voltado para pets
 - Interface amigável ao usuário
 
+- - está disponível em: https://baqui56.github.io/site-pet-shop/
+
 ### 📝 Ficha de Cadastro
 Sistema simples de cadastro desenvolvido para aprimoramento de habilidades.
 
@@ -56,6 +62,8 @@ Sistema simples de cadastro desenvolvido para aprimoramento de habilidades.
 - Formulário funcional
 - Validação de dados
 - Interface limpa e intuitiva
+
+- - está disponível em: https://baqui56.github.io/ficha-cadastro/
 
 ## 🌐 Acesso ao Site
 
