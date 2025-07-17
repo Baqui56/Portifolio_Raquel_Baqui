@@ -20,7 +20,7 @@ Sou **Raquel Baqui**, desenvolvedora front-end formada em **Análise e Desenvolv
 
 ### Frontend
 - **HTML5** - Estruturação semântica
-- **CSS3** - Estilização e responsividade
+- **CSS** - Estilização e responsividade
 - **JavaScript** - Interatividade e funcionalidades
 
 ## 📁 Projetos em Destaque
